@@ -9,6 +9,6 @@ public class Ejercicio01 {
         System.out.println("Nombre: " + nombre);
         System.out.println("Edad: " + edad);
         System.out.println("Carrera: " + carrera);
-        System.out.println("Universidad: " + universidad);
+        System.out.println("Universidad: Universidad Autónoma Tomás Frías");
     }
 }
